@@ -1,1 +1,0 @@
-/usr/bin/c++ --coverage -lgcov CMakeFiles/banking_tests.dir/tests/test_account.cpp.o CMakeFiles/banking_tests.dir/tests/test_transaction.cpp.o CMakeFiles/banking_tests.dir/tests/test_mocks.cpp.o -o banking_tests  libbanking.a lib/libgtest_main.a lib/libgmock.a lib/libgtest.a 
